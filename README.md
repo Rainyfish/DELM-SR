@@ -14,4 +14,4 @@ You can run SR_demo by using **SR_demo(0.01,200,'model/model_91','Set14','.bmp')
 ***
 ### Trained models
 
-You can get the trained models of ***DELM-SR*** and ***DELM-SR+*** from google and [BaiduYun](https://pan.baidu.com/s/1O9-kfgBSLoSYDPz5nsv4LA)
+You can get the trained models of ***DELM-SR*** and ***DELM-SR+*** from and [BaiduYun](https://pan.baidu.com/s/1O9-kfgBSLoSYDPz5nsv4LA)
