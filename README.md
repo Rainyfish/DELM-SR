@@ -10,8 +10,6 @@ SR-demo is the test function of DELM-SR. SR-demo has four input parameters, whic
 - ***pattern***-------The type of test images('png','tmp').
 
 You can run SR_demo by using **SR_demo(0.01,200,'model/model_91','Set14','.bmp')** as a sample.
-
-___
-#DELM-SR+
-
-You can get the trained model of DELM-SR+ from [BaiduYun](https://pan.baidu.com/s/1DyGP25MlEDYzBs4AH1ezqA)
+***
+###Trained models
+You can get the trained model of DELM-SR+ from google and [BaiduYun](https://pan.baidu.com/s/1O9-kfgBSLoSYDPz5nsv4LA)
