@@ -15,3 +15,7 @@ You can run SR_demo by using **SR_demo(0.01,200,'model/model_91','Set14','.bmp')
 ### Trained models
 
 You can get the trained models of ***DELM-SR*** and ***DELM-SR+*** from [BaiduYun](https://pan.baidu.com/s/1O9-kfgBSLoSYDPz5nsv4LA)
+
+### Test Datasets
+We perform extensive quantitative and qualitative comparisons with current state-of-the-art SR algorithms on 5 datasets: **Set5**, **Set14, BSDS100, Urban100,** and **Manga109**. **Set5** and **Set14** are included.
+
