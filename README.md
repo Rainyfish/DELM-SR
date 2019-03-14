@@ -22,4 +22,4 @@ All the testing_datasets can be download from [Link](http://vllab.ucmerced.edu/w
 
 ### Slide 
 
-
+**Decision Tree and Extreme Learning Machine base Single Image Super-resolution_temp.pptx** is the slide of our method. You can also download it from [Here](https://raw.githubusercontent.com/Rainyfish/DELM-SR/master/Decision%20Tree%20and%20Extreme%20Learning%20Machine%20base%20Single%20Image%20Super-resolution_temp.pptx)
