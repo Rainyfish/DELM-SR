@@ -20,3 +20,6 @@ You can get the trained models of ***DELM-SR*** and ***DELM-SR+*** from [BaiduYu
 We perform extensive quantitative and qualitative comparisons with current state-of-the-art SR algorithms on 5 datasets: **Set5**, **Set14, BSDS100, Urban100,** and **Manga109**. **Set5** and **Set14** are included.
 All the testing_datasets can be download from [Link](http://vllab.ucmerced.edu/wlai24/LapSRN/results/SR_testing_datasets.zip) or [BaiduYun](https://pan.baidu.com/s/1MJBY_BMhh910DdjksoMONA).
 
+### Slide 
+
+
